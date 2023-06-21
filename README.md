@@ -1,4 +1,4 @@
-# CREATING MY OWN TOKEN 
+# CREATING MY OWN TOKEN : META_COIN 
 
 The project involves the creation of a custom token using the Solidity programming language. Tokens are a fundamental aspect of the Ethereum blockchain ecosystem, representing digital assets that can be transferred and exchanged. By developing your own token, you can explore the underlying concepts of blockchain, smart contracts, and decentralized finance.
 
